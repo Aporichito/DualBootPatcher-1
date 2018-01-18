@@ -1,11 +1,11 @@
 ---
-- name: Symphony P7
-  id: Symphony_P7
+- name: Walton Primo HM3+
+  id: Walton_Primo HM3+
   codenames:
-    - p7
-    - P7
-    - Symphony
-    - Symphony_P7
+    - HM3+
+    - HM3+
+    - Walton
+    - Primo_HM3+
   architecture: armeabi-v7a
 
   block_devs:
